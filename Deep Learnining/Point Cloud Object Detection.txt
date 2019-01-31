@@ -1,1 +1,4 @@
 This project aims to find new ways of point cloud object classification. The bench marking dataset is ModelNet 10 and 40. Baseline/Reference paper is Qi, Charles R., et al. "Pointnet: Deep learning on point sets for 3d classification and segmentation.".
+
+
+Refer to https://github.com/sidd-pandey/PointCloudRasterization for code.
