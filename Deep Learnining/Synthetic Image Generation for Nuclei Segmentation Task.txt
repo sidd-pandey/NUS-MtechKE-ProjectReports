@@ -1,3 +1,6 @@
 Dataset source: https://www.kaggle.com/c/data-science-bowl-2018
 
-The basic proposal is to test/compare how data augmentation effects Nuclei Segementation task. The compared data augmentation techniques are Traditional(Flip, Rotate, Crop, Shear, etc.) versus GAN based synthetic image generation.
+The basic proposal is to test/compare how data augmentation effects Nuclei Segementation task. 
+The compared data augmentation techniques are Traditional(Flip, Rotate, Crop, Shear, etc.) versus GAN based synthetic image generation.
+
+Refer https://github.com/pranshuranjan/GANs for actual git repositroy.
